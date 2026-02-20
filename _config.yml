@@ -1,3 +1,5 @@
-theme: jekyll-theme-minimal
+remote_theme: pages-themes/primer@v0.6.0
+plugins:
+- jekyll-remote-theme
 title: myHealth
 description: UI/UX design for the app myHealth
