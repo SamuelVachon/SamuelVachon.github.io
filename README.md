@@ -1,1 +1,2 @@
-# SamuelVachon.github.io
+# Introduction
+The idea of myHealth is incepted to help people with chronic illnesses manage the challenges that comes with it. The challenges can range from medications to doctor appointments and tracking their medical data. Forgetting the medication can lead to serious health issues. Long threads of emails with the doctor’s office can be a headache to navigate trough. Having to track their data in all sorts of different apps can be confusing at times. myHealth stands as a centralized tool for all of these activities. In a context where more people are being prescribed adhd medications  or with diabetes , helping those people overcome their conditions is that more important. 
