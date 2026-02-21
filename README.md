@@ -231,7 +231,7 @@ By looking at the user flow chart, 6 sub-flows can be identified. For the purpos
 
 ## Log In and Registration
 
-Task 1: Registration
+### Task 1: Registration
 
 Context: First time user, enter the app on the login page.
 
