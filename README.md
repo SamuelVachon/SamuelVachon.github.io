@@ -245,7 +245,7 @@ iii. Enter their information
 
 iv. Click "Register"
 
-Task 2: Log In
+### Task 2: Log In
 
 Context: Enter the app at the login page.
 
@@ -255,7 +255,7 @@ i.  Enter the Log In information previously registered
 
 ii. Click "Log In"
 
-Task 3: Log Out
+### Task 3: Log Out
 
 Expected behavior:
 
@@ -265,7 +265,7 @@ ii. Click Log Out
 
 ## Add a Reminder
 
-Task 4: Add a Reminder once a day
+### Task 4: Add a Reminder once a day
 
 Expected behavior:
 
@@ -279,7 +279,7 @@ iv. Enter the time of the reminder
 
 v.  Click "Done"
 
-Task 4: Add a Reminder twice a day
+### Task 5: Add a Reminder twice a day
 
 Expected behavior:
 
@@ -299,13 +299,13 @@ vii. Click "Done"
 
 ## Confirm or Forgot the pill
 
-Task 5: You took your pill
+### Task 6: You took your pill
 
 Expected behavior:
 
 i.  Click "Taken"
 
-Task 6: You didn't take your pill
+### Task 7: You didn't take your pill
 
 Expected behavior:
 
@@ -313,7 +313,7 @@ i.  Click "Forgot"
 
 ## Request an appointment  {#request-an-appointment}
 
-Task 7: Request first appointment
+### Task 8: Request first appointment
 
 Expected behavior:
 
@@ -325,7 +325,7 @@ iii. Enter the reason of the appointment
 
 iv. Click "Done"
 
-Task 8: Request an appointment when others are already there
+### Task 9: Request an appointment when others are already there
 
 Expected behavior:
 
@@ -339,7 +339,7 @@ iv. Click "Done"
 
 ## Add a Contact to message
 
-Task 9: Add a doctor to the contact list
+### Task 10: Add a doctor to the contact list
 
 Expected Behavior:
 
@@ -353,7 +353,7 @@ iv. Click on the name of the doctor
 
 ## Message an existing contact
 
-Task 10: Send a message to an existing contact
+### Task 11: Send a message to an existing contact
 
 Expected Behavior:
 
@@ -363,7 +363,7 @@ ii. Click the contact
 
 iii. Write and send a message
 
-Task 11: Use our quick chat
+### Task 12: Use our quick chat
 
 Expected Behavior:
 
